@@ -1,1 +1,9 @@
-This folder is mainly used to store the codes I wrote.
+This folder is mainly used to store the codes I want to show.
+
+#update 6.28 :
+
+Three files are uploaded. The Rmd file is a copy of the paper for testing only. 
+‘pygam’ is a demonstration of the use of the pygam package.
+‘mgcv_in_py’ is a demonstration of testing the use of the mgcv package in python.
+
+#
